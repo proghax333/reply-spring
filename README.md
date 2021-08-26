@@ -1,6 +1,6 @@
 # Reply Spring - A simple Spring Boot application
 
-A simple Spring Boot application designed while learning.
+A simple Spring Boot REST API application designed while learning.
 
 ## REST API docs
 | Endpoint          | Description |
